@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/mahdi26/github/Eaglet/ToLower/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mahdi26/github/Eaglet/ToLower/build -I/home/mahdi26/github/Eaglet/ToLower/include -I/home/mahdi26/github/Eaglet/ToLower/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/mahdi26/github/Eaglet/ToLower/app/main.cpp",
+  "file": "/home/mahdi26/github/Eaglet/ToLower/app/main.cpp"
+},
+{
+  "directory": "/home/mahdi26/github/Eaglet/ToLower/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mahdi26/github/Eaglet/ToLower/build -I/home/mahdi26/github/Eaglet/ToLower/include -I/home/mahdi26/github/Eaglet/ToLower/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/myLibrary.dir/src/Foo.cpp.o -c /home/mahdi26/github/Eaglet/ToLower/src/Foo.cpp",
+  "file": "/home/mahdi26/github/Eaglet/ToLower/src/Foo.cpp"
+},
+{
+  "directory": "/home/mahdi26/github/Eaglet/ToLower/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mahdi26/github/Eaglet/ToLower/build -I/home/mahdi26/github/Eaglet/ToLower/include -I/home/mahdi26/github/Eaglet/ToLower/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/mahdi26/github/Eaglet/ToLower/tests/main.cpp",
+  "file": "/home/mahdi26/github/Eaglet/ToLower/tests/main.cpp"
+},
+{
+  "directory": "/home/mahdi26/github/Eaglet/ToLower/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/mahdi26/github/Eaglet/ToLower/build -I/home/mahdi26/github/Eaglet/ToLower/include -I/home/mahdi26/github/Eaglet/ToLower/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/foo.cpp.o -c /home/mahdi26/github/Eaglet/ToLower/tests/foo.cpp",
+  "file": "/home/mahdi26/github/Eaglet/ToLower/tests/foo.cpp"
+}
+]
